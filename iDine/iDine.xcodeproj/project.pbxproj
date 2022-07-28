@@ -16,6 +16,7 @@
 		217CB043289177960069FBDB /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217CB040289177960069FBDB /* Menu.swift */; };
 		217CB044289177960069FBDB /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 217CB041289177960069FBDB /* menu.json */; };
 		F1930589289267C2000AEEDD /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1930588289267C2000AEEDD /* ItemRow.swift */; };
+		F19305CB28928242000AEEDD /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19305CA28928242000AEEDD /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		217CB040289177960069FBDB /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		217CB041289177960069FBDB /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		F1930588289267C2000AEEDD /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		F19305CA28928242000AEEDD /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				217CB02F2891767B0069FBDB /* iDineApp.swift */,
 				217CB0312891767B0069FBDB /* ContentView.swift */,
 				F1930588289267C2000AEEDD /* ItemRow.swift */,
+				F19305CA28928242000AEEDD /* ItemDetail.swift */,
 				217CB0332891767C0069FBDB /* Assets.xcassets */,
 				217CB0352891767C0069FBDB /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F19305CB28928242000AEEDD /* ItemDetail.swift in Sources */,
 				217CB0322891767B0069FBDB /* ContentView.swift in Sources */,
 				217CB0302891767B0069FBDB /* iDineApp.swift in Sources */,
 				217CB042289177960069FBDB /* Order.swift in Sources */,
