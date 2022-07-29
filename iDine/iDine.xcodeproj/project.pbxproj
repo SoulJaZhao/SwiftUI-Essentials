@@ -17,6 +17,7 @@
 		217CB044289177960069FBDB /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 217CB041289177960069FBDB /* menu.json */; };
 		21F05ABB2893DF42004A903D /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F05ABA2893DF42004A903D /* OrderView.swift */; };
 		21F05ABD2893E234004A903D /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F05ABC2893E234004A903D /* MainView.swift */; };
+		21F05ABF2893E7DF004A903D /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F05ABE2893E7DF004A903D /* CheckoutView.swift */; };
 		F1930589289267C2000AEEDD /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1930588289267C2000AEEDD /* ItemRow.swift */; };
 		F19305CB28928242000AEEDD /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19305CA28928242000AEEDD /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
@@ -33,6 +34,7 @@
 		217CB041289177960069FBDB /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		21F05ABA2893DF42004A903D /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		21F05ABC2893E234004A903D /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		21F05ABE2893E7DF004A903D /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		F1930588289267C2000AEEDD /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		F19305CA28928242000AEEDD /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -77,6 +79,7 @@
 				F19305CA28928242000AEEDD /* ItemDetail.swift */,
 				21F05ABA2893DF42004A903D /* OrderView.swift */,
 				21F05ABC2893E234004A903D /* MainView.swift */,
+				21F05ABE2893E7DF004A903D /* CheckoutView.swift */,
 				217CB0332891767C0069FBDB /* Assets.xcassets */,
 				217CB0352891767C0069FBDB /* Preview Content */,
 			);
@@ -164,6 +167,7 @@
 			files = (
 				F19305CB28928242000AEEDD /* ItemDetail.swift in Sources */,
 				21F05ABD2893E234004A903D /* MainView.swift in Sources */,
+				21F05ABF2893E7DF004A903D /* CheckoutView.swift in Sources */,
 				21F05ABB2893DF42004A903D /* OrderView.swift in Sources */,
 				217CB0322891767B0069FBDB /* ContentView.swift in Sources */,
 				217CB0302891767B0069FBDB /* iDineApp.swift in Sources */,
